@@ -1,4 +1,4 @@
-# 
+# Profissional Visual Studio plugins para Mac OS | Melhor Visual Studio plugins para PC Windows. Com navegação de código e cache de build — otimizado para máximo desempenho em cada plataforma.
 
 
 
